@@ -15,4 +15,4 @@
 </p>
 
 <br/>
-<p align="center">Live Demo: https://chihu2.github.io/</p>
+<p align="center">Live Demo: https://chihu-team.github.io/</p>
